@@ -1,6 +1,6 @@
 --Covid 19 Data Exploration Portfolio Project 
 --Showcasing Syntax, joins, Windows Function, aggregate functions, converting data types, CTE to perform calcualtions, and creating views.
-
+-- Tableau Visulaization https://public.tableau.com/app/profile/shujah.chaudhary
 
 SELECT *
 FROM PortfolioProject..CovidDeaths
